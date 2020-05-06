@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('xinchao', function(){
+	echo '测试';
+});
