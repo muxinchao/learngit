@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('test', function(){
+	echo '我是object/learngit';
+});
