@@ -25,3 +25,7 @@ Route::get('xinchao', function(){
 Route::get('xinchao', function(){
 	echo '牟新超';
 });
+
+Route::get('xinchao', function(){
+	echo '牟新超';
+});
