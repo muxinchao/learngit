@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('xinchao', function(){
 	echo '测试';
 });
+
+Route::get('xinchao', function(){
+	echo '牟新超';
+});
